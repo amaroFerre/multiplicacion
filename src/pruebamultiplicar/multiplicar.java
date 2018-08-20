@@ -14,6 +14,15 @@ import java.util.*;
  */
 public class multiplicar {
     
+    // Creamos un objeto de la clase Scanner
+    
+    Scanner entrada = new Scanner(System.in);
+    
+    // Creamos una variable entera
+    
+    private int numero;
+    
+    
     
     
 }
