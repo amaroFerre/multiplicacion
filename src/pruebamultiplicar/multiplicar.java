@@ -23,6 +23,28 @@ public class multiplicar {
     private int numero;
     
     
+    // Creo el método IntroduceNumero, el cual nos pedirá un número entero
+    // por consola
+    public void introduceNumero(){
+        
+        System.out.println("Introduce un número: ");
+        
+        numero = entrada.nextInt();
+        
+    // Creo metodo imprimeTabla
+    }public void imprimeTabla() {
+        // bucle for 
+        for (int i=0; i <= 10; i++){
+            
+            System.out.println("El número " + numero+ " multiplicado por " + i + " es igual a: "+ (i*numero) );
+            
+            
+        }
+        
+            
+    }
+    
+    
     
     
 }
