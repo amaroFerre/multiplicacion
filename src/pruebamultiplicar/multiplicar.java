@@ -5,10 +5,15 @@
  */
 package pruebamultiplicar;
 
+// Importamos el paquete java.util para utilizar la clase Scanner
+
+import java.util.*;
 /**
  *
  * @author Amarico
  */
 public class multiplicar {
+    
+    
     
 }
